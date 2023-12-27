@@ -23,9 +23,9 @@ export function Intro() {
   return (
     <>
       <div>
-        <Link href="/">
+        <a href="https://paywind.io">
           <Logo className="inline-block h-8 w-auto" />
-        </Link>
+        </a>
       </div>
       <h1 className="mt-5 text-4xl text-white">
         <span className="text-white font-semibold"> A Journey Through Innovation</span>
