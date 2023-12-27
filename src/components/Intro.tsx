@@ -31,7 +31,7 @@ export function Intro() {
         <span className="text-green-500 font-semibold"> A Journey Through Innovation</span>
       </h1>
       <p className="mt-4 text-md text-gray-300">
-      This page offers a snapshot of Paywind's pivotal developments in the investment sector, emphasizing major updates and innovations that mark our journey towards enhancing your investing experience
+      This page offers a snapshot of Paywind&apos;s pivotal developments in the investment sector, emphasizing major updates and innovations that mark our journey towards enhancing your investing experience
       </p>
       <SignUpForm />
       <div className="mt-8 flex flex-wrap justify-center gap-x-1 gap-y-3 sm:gap-x-2 lg:justify-start">
