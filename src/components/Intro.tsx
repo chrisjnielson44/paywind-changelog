@@ -28,7 +28,7 @@ export function Intro() {
         </Link>
       </div>
       <h1 className="mt-5 text-4xl text-white">
-        <span className="text-green-500 font-semibold"> A Journey Through Innovation</span>
+        <span className="text-white font-semibold"> A Journey Through Innovation</span>
       </h1>
       <p className="mt-4 text-md text-gray-300">
       This page offers a snapshot of Paywind&apos;s pivotal developments in the investment sector, emphasizing major updates and innovations that mark our journey towards enhancing your investing experience
